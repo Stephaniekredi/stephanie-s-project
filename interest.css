@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+}
+p {
+  font-style: inherit;
+  font-family: lucida;
+  font-size: 20px;
+  color: black;
+}
+#bear {
+    font-family: fantasy;
+}
+#desk {
+     font-family: monospace;
+}
+#chair {
+    font-family: sans-serif;
+}

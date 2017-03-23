@@ -1,0 +1,31 @@
+body {
+  background-color: pink;
+}
+p {
+  font-style: inherit;
+  font-family: lucida;
+  font-size: 20px;
+  color: red;
+}
+
+
+#happy {
+    font-family: Verdana;
+}
+#sad {
+     font-family: cursive;
+}
+#fun {
+    font-family: lucida;
+}
+
+div {
+border: solid black 2px;
+background-color: transparent;
+height:150px;
+width: 100%;
+margin: 10px;
+}
+li {
+    list-style-type: none;
+} 

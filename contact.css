@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+}
+p {
+  font-style: inherit;
+  font-family: lucida;
+  font-size: 20px;
+  color: purple;
+}
+#home {
+    font-family: Verdana;
+}
+#box {
+     font-family: inherit;
+    color: white;
+}
+#net {
+    font-family: lucida;
+}

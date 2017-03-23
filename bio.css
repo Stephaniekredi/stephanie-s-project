@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+p {
+  font-style: inherit;
+  font-family: lucida;
+  font-size: 20px;
+  color: white;
+}
+#happy {
+    font-family: inherit;
+}
+#sad {
+     font-family: cursive;
+}
+#fun {
+    font-family: monospace;
+}
